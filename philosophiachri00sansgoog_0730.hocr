@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiachri00sansgoog_0730.png"; bbox 0 0 2475 3909; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2159 641 2421 715">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2159 641 2421 715">
+     <span class='ocr_line' id='line_1_1' title="bbox 2159 641 2421 715; baseline -4.353 0"><span class='ocrx_word' id='word_1_1' title='bbox 2159 641 2421 715; x_wconf 41' lang='lat' dir='ltr'>,W</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2135 726 2468 1126">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2135 726 2468 1126">
+     <span class='ocr_line' id='line_1_2' title="bbox 2137 726 2468 1087"><span class='ocrx_word' id='word_1_2' title='bbox 2137 726 2468 963; x_wconf 41' lang='lat' dir='ltr'>*5ss</span> <span class='ocrx_word' id='word_1_3' title='bbox 2329 1027 2448 1087; x_wconf 47' lang='lat' dir='ltr'>„a</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2223 820 2370 1113; baseline -97.667 2832.333"><span class='ocrx_word' id='word_1_4' title='bbox 2223 820 2326 963; x_wconf 45' lang='lat' dir='ltr'>‘Mus</span> <span class='ocrx_word' id='word_1_5' title='bbox 2252 1036 2370 1113; x_wconf 47' lang='grc' dir='ltr'>ἰῇ.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2135 826 2237 1126; baseline 42.857 -300"><span class='ocrx_word' id='word_1_6' title='bbox 2135 826 2237 982; x_wconf 45' lang='grc' dir='ltr'>ἶ».</span> <span class='ocrx_word' id='word_1_7' title='bbox 2226 1125 2229 1126; x_wconf 18' lang='lat' dir='ltr'><em>f</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2172 93 2475 619">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2156 93 2475 619">
+     <span class='ocr_line' id='line_1_5' title="bbox 2172 93 2475 619; baseline -25.048 3055.81"><span class='ocrx_word' id='word_1_8' title='bbox 2172 93 2475 619; x_wconf 41' lang='lat'>3232.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 1083 2475 3909">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 1083 2475 3909">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 1083 2475 3909"><span class='ocrx_word' id='word_1_9' title='bbox 0 1083 2475 3909; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
